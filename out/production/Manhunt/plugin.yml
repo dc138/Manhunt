@@ -1,0 +1,19 @@
+name: Manhunt
+version: 2.0
+main: me.DarthChungo.Manhunt.Manhunt
+description: "Easily play Manhunt with your friends."
+api-version: 1.15
+load: STARTUP
+author: "DarthChungo"
+
+commands:
+  hunt:
+    description: "Hunt a player with a compass."
+    usage: "/<command> <stop|player>"
+    permission: hunt
+    permission-message: "§cYou don't have permission to use this command."
+
+permissions:
+  hunt:
+    description: "Allows you to use the /hunt command"
+    default: true

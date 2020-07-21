@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Manhunt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Manhunt_jar</output-path>
+    <root id="archive" name="Manhunt.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+      <element id="module-output" name="Manhunt" />
+    </root>
+  </artifact>
+</component>
