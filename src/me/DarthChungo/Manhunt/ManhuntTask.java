@@ -1,3 +1,9 @@
+/*
+   Manhunt plugin by DarthChungo
+   MIT License
+   Copyright (c) 2020 Antonio de Haro
+*/
+
 package me.DarthChungo.Manhunt;
 
 import org.bukkit.entity.Player;

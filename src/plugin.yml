@@ -1,3 +1,10 @@
+#
+# Manhunt plugin by DarthChungo
+#
+# MIT License
+# Copyright (c) 2020 Antonio de Haro
+#
+
 name: Manhunt
 version: 2.0
 main: me.DarthChungo.Manhunt.Manhunt

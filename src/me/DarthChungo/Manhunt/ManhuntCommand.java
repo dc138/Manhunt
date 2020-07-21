@@ -1,6 +1,11 @@
+/*
+   Manhunt plugin by DarthChungo
+   MIT License
+   Copyright (c) 2020 Antonio de Haro
+*/
+
 package me.DarthChungo.Manhunt;
 
-import com.mysql.fabric.xmlrpc.base.Array;
 import org.bukkit.ChatColor;
 import org.bukkit.Material;
 import org.bukkit.command.Command;
